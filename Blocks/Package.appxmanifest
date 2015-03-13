@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Publisher="CN=1710EF8D-4CE7-4FA0-B10C-27C7BC9D967B" Version="1.0.0.12" Name="35320SharonVarghese1.HOMEHINTS" />
+  <Properties>
+    <DisplayName>HOME HINTS</DisplayName>
+    <PublisherDisplayName>SharonVarghese1</PublisherDisplayName>
+    <Logo>HHLOGO50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Blocks.App">
+      <VisualElements DisplayName="HOME HINTS" Logo="Assets\HHLOGO150.png" SmallLogo="Assets\HHLOGO30.jpg" Description="HOME HINTS" ForegroundText="light" BackgroundColor="yellow">
+        <DefaultTile ShowName="allLogos" ShortName="HOUSEHOLD HINTS" WideLogo="Assets\HHLOGO310150.png" />
+        <SplashScreen Image="Splashscreen.jpg" BackgroundColor="blue" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

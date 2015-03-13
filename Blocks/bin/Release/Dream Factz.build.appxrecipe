@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AJAY</Machine>
+    <WindowsUser>Ajay.J</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\Brainvita.exe">
+      <PackagePath>Brainvita.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\Brainvita.pdb">
+      <PackagePath>Brainvita.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Dreams_310x150.jpg">
+      <PackagePath>Assets\Dreams_310x150.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\dream_30.jpg">
+      <PackagePath>Assets\dream_30.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Splashscreen.jpg">
+      <PackagePath>Assets\Splashscreen.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\asleep.jpg">
+      <PackagePath>Images\asleep.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\asleepsm.jpg">
+      <PackagePath>Images\asleepsm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Background.jpg">
+      <PackagePath>Images\Background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\black-and-white.jpg">
+      <PackagePath>Images\black-and-white.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\ctrl.jpg">
+      <PackagePath>Images\ctrl.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\img.jpg">
+      <PackagePath>Images\img.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\question_blog.jpg">
+      <PackagePath>Images\question_blog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Splashscreen.jpg">
+      <PackagePath>Images\Splashscreen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Assets\wideLogo.png">
+      <PackagePath>Assets\wideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\About-01.png">
+      <PackagePath>Images\About-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\AboutHub-01.png">
+      <PackagePath>Images\AboutHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Background.png">
+      <PackagePath>Images\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Instruction-01.png">
+      <PackagePath>Images\Instruction-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\InstructionHub-01.png">
+      <PackagePath>Images\InstructionHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\MainLogo-01.png">
+      <PackagePath>Images\MainLogo-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Play-01.png">
+      <PackagePath>Images\Play-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\PlayHub-01.png">
+      <PackagePath>Images\PlayHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Score-01.png">
+      <PackagePath>Images\Score-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\ScoreHub-01.png">
+      <PackagePath>Images\ScoreHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\Setting-01.png">
+      <PackagePath>Images\Setting-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Images\SettingHub-01.png">
+      <PackagePath>Images\SettingHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\SettingsFlyouts\ContactUs.xaml">
+      <PackagePath>SettingsFlyouts\ContactUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\AboutPage.xaml">
+      <PackagePath>AboutPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\HubPage.xaml">
+      <PackagePath>HubPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\InstructionPage.xaml">
+      <PackagePath>InstructionPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\PlayPage.xaml">
+      <PackagePath>PlayPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\ScorePage.xaml">
+      <PackagePath>ScorePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\SettingPage.xaml">
+      <PackagePath>SettingPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\SettingsFlyouts\AboutUs.xaml">
+      <PackagePath>SettingsFlyouts\AboutUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\SettingsFlyouts\PrivacyPolicy.xaml">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\SettingsFlyouts\TermsAndConditions.xaml">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ajay.J\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

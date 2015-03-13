@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VFYI-04</Machine>
+    <WindowsUser>vjacob</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E86259B68046317273DEC1CCCDF7913C97B0FA4B43EDC730D5CE9AD8D3CDB8F0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35320SharonVarghese1.HOMEHINTS_1.0.0.10_neutral__h07wnx2fxft50</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35320SharonVarghese1.HOMEHINTS_h07wnx2fxft50!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35320SharonVarghese1.HOMEHINTS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=1710EF8D-4CE7-4FA0-B10C-27C7BC9D967B</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.10</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T16:16:05.012</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Brainvita.exe">
+      <PackagePath>Brainvita.exe</PackagePath>
+      <Modified>2013-07-23T16:16:04.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Brainvita.pdb">
+      <PackagePath>Brainvita.pdb</PackagePath>
+      <Modified>2013-07-23T16:16:04.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Dreams_310x150.jpg">
+      <PackagePath>Assets\Dreams_310x150.jpg</PackagePath>
+      <Modified>2013-07-02T14:08:25.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\dream_30.jpg">
+      <PackagePath>Assets\dream_30.jpg</PackagePath>
+      <Modified>2013-07-02T14:12:11.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO30.jpg">
+      <PackagePath>Assets\HHLOGO30.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T16:42:19.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+      <Modified>2012-10-31T13:37:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+      <Modified>2012-10-31T13:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+      <Modified>2012-10-31T13:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+      <Modified>2012-10-31T13:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO30.jpg">
+      <PackagePath>HHLOGO30.jpg</PackagePath>
+      <Modified>2013-07-21T16:42:19.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Household.jpg">
+      <PackagePath>Household.jpg</PackagePath>
+      <Modified>2013-07-23T14:41:10.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Background.jpg">
+      <PackagePath>Images\Background.jpg</PackagePath>
+      <Modified>2012-10-16T12:43:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\backgroundimg.jpg">
+      <PackagePath>Images\backgroundimg.jpg</PackagePath>
+      <Modified>2013-07-21T12:47:26.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\beauty.jpg">
+      <PackagePath>Images\beauty.jpg</PackagePath>
+      <Modified>2013-07-21T12:51:53.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\beautybg.jpg">
+      <PackagePath>Images\beautybg.jpg</PackagePath>
+      <Modified>2013-07-23T13:38:55.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\b.jpg">
+      <PackagePath>Images\b.jpg</PackagePath>
+      <Modified>2013-07-23T14:11:52.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\bgmain.jpg">
+      <PackagePath>Images\bgmain.jpg</PackagePath>
+      <Modified>2013-07-23T14:28:51.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\bgs.jpg">
+      <PackagePath>Images\bgs.jpg</PackagePath>
+      <Modified>2013-07-23T14:17:31.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\black-and-white.jpg">
+      <PackagePath>Images\black-and-white.jpg</PackagePath>
+      <Modified>2013-06-15T22:45:09.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Clothes.jpg">
+      <PackagePath>Images\Clothes.jpg</PackagePath>
+      <Modified>2013-07-21T12:51:50.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\clothesbg.jpg">
+      <PackagePath>Images\clothesbg.jpg</PackagePath>
+      <Modified>2013-07-23T13:32:26.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\food.jpg">
+      <PackagePath>Images\food.jpg</PackagePath>
+      <Modified>2013-07-21T12:51:50.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\foodbg.jpg">
+      <PackagePath>Images\foodbg.jpg</PackagePath>
+      <Modified>2013-07-23T13:48:28.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\jewellery.jpg">
+      <PackagePath>Images\jewellery.jpg</PackagePath>
+      <Modified>2013-07-21T12:52:14.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\jewellerybg.jpg">
+      <PackagePath>Images\jewellerybg.jpg</PackagePath>
+      <Modified>2013-07-21T14:38:18.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\kitchen.jpg">
+      <PackagePath>Images\kitchen.jpg</PackagePath>
+      <Modified>2013-07-21T12:52:35.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\kitchengb.jpg">
+      <PackagePath>Images\kitchengb.jpg</PackagePath>
+      <Modified>2013-07-23T13:35:41.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\mainpagebg.jpg">
+      <PackagePath>Images\mainpagebg.jpg</PackagePath>
+      <Modified>2013-07-23T14:24:32.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Splashscreen.jpg">
+      <PackagePath>Images\Splashscreen.jpg</PackagePath>
+      <Modified>2013-06-30T19:22:12.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Splashscreen.jpg">
+      <PackagePath>Splashscreen.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:53:53.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO150.png">
+      <PackagePath>Assets\HHLOGO150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T16:36:56.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO310150.png">
+      <PackagePath>Assets\HHLOGO310150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T16:35:58.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO50.png">
+      <PackagePath>Assets\HHLOGO50.png</PackagePath>
+      <Modified>2013-07-21T16:31:40.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-21T01:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-21T01:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Splashscreen.png">
+      <PackagePath>Assets\Splashscreen.png</PackagePath>
+      <Modified>2013-07-21T16:28:05.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-21T01:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\wideLogo.png">
+      <PackagePath>Assets\wideLogo.png</PackagePath>
+      <Modified>2012-10-31T13:33:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO150.png">
+      <PackagePath>HHLOGO150.png</PackagePath>
+      <Modified>2013-07-21T16:36:56.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO310150.png">
+      <PackagePath>HHLOGO310150.png</PackagePath>
+      <Modified>2013-07-21T16:35:58.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO50.png">
+      <PackagePath>HHLOGO50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T16:31:40.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\About-01.png">
+      <PackagePath>Images\About-01.png</PackagePath>
+      <Modified>2012-05-22T06:49:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\AboutHub-01.png">
+      <PackagePath>Images\AboutHub-01.png</PackagePath>
+      <Modified>2012-05-22T06:44:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Background.png">
+      <PackagePath>Images\Background.png</PackagePath>
+      <Modified>2012-05-22T06:37:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Instruction-01.png">
+      <PackagePath>Images\Instruction-01.png</PackagePath>
+      <Modified>2012-05-22T06:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\InstructionHub-01.png">
+      <PackagePath>Images\InstructionHub-01.png</PackagePath>
+      <Modified>2012-05-22T06:45:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\MainLogo-01.png">
+      <PackagePath>Images\MainLogo-01.png</PackagePath>
+      <Modified>2012-05-22T06:39:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Play-01.png">
+      <PackagePath>Images\Play-01.png</PackagePath>
+      <Modified>2012-05-22T06:51:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\PlayHub-01.png">
+      <PackagePath>Images\PlayHub-01.png</PackagePath>
+      <Modified>2012-05-22T06:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Score-01.png">
+      <PackagePath>Images\Score-01.png</PackagePath>
+      <Modified>2012-05-22T06:52:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\ScoreHub-01.png">
+      <PackagePath>Images\ScoreHub-01.png</PackagePath>
+      <Modified>2012-05-22T06:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Setting-01.png">
+      <PackagePath>Images\Setting-01.png</PackagePath>
+      <Modified>2012-05-22T06:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\SettingHub-01.png">
+      <PackagePath>Images\SettingHub-01.png</PackagePath>
+      <Modified>2012-05-22T06:47:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-07-13T10:50:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-04T12:29:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\ContactUs.xaml">
+      <PackagePath>SettingsFlyouts\ContactUs.xaml</PackagePath>
+      <Modified>2012-11-01T12:37:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\AboutPage.xaml">
+      <PackagePath>AboutPage.xaml</PackagePath>
+      <Modified>2013-07-23T16:15:59.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-25T05:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\HubPage.xaml">
+      <PackagePath>HubPage.xaml</PackagePath>
+      <Modified>2013-07-23T16:11:23.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\InstructionPage.xaml">
+      <PackagePath>InstructionPage.xaml</PackagePath>
+      <Modified>2013-07-23T16:15:59.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-04T12:29:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\PlayPage.xaml">
+      <PackagePath>PlayPage.xaml</PackagePath>
+      <Modified>2013-07-23T16:15:59.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\ScorePage.xaml">
+      <PackagePath>ScorePage.xaml</PackagePath>
+      <Modified>2013-07-23T16:15:58.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingPage.xaml">
+      <PackagePath>SettingPage.xaml</PackagePath>
+      <Modified>2013-07-23T16:15:59.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\AboutUs.xaml">
+      <PackagePath>SettingsFlyouts\AboutUs.xaml</PackagePath>
+      <Modified>2012-11-01T12:37:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\PrivacyPolicy.xaml">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xaml</PackagePath>
+      <Modified>2012-11-01T12:37:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\TermsAndConditions.xaml">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xaml</PackagePath>
+      <Modified>2012-11-01T12:37:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-23T16:11:27.386</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

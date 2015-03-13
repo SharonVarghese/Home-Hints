@@ -1,0 +1,220 @@
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.exe
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.pdb
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\resources.pri
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\AppxManifest.xml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Blocks.build.appxrecipe
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.exe
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.pdb
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\priconfig.xml.intermediate
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\layout.resfiles.intermediate
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\resources.resfiles.intermediate
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\pri.resfiles.intermediate
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\priconfig.xml
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\layout.resfiles
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\resources.resfiles
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\pri.resfiles
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\LanguageQualifiers.txt
+C:\Users\sai mohini\Desktop\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ProjectArchitectures.txt
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.exe
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.pdb
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\resources.pri
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\AppxManifest.xml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Blocks.build.appxrecipe
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\XamlTypeInfo.g.cs
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.exe
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.pdb
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\priconfig.xml
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\layout.resfiles
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\resources.resfiles
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\pri.resfiles
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\LanguageQualifiers.txt
+J:\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ProjectArchitectures.txt
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.exe
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.pdb
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\resources.pri
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\AppxManifest.xml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Blocks.build.appxrecipe
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\XamlTypeInfo.g.cs
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\App.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\ContactUs.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\AboutPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Common\StandardStyles.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\HubPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\InstructionPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\MainPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\PlayPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ScorePage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingPage.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\AboutUs.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.exe
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\Brainvita.pdb
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\priconfig.xml
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\layout.resfiles
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\resources.resfiles
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\pri.resfiles
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\LanguageQualifiers.txt
+F:\Templates\Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\ProjectArchitectures.txt
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Debug\Brainvita.exe
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Debug\Brainvita.pdb
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Debug\resources.pri
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Debug\AppxManifest.xml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\bin\Debug\Blocks.build.appxrecipe
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\App.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\App.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\AboutPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\AboutPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\HubPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\HubPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\InstructionPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\InstructionPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\MainPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\MainPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\PlayPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\PlayPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\ScorePage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\ScorePage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingPage.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingPage.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\App.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\ContactUs.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\AboutPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\Common\StandardStyles.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\HubPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\InstructionPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\MainPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\PlayPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\ScorePage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingPage.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\AboutUs.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\Brainvita.exe
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\Brainvita.pdb
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\priconfig.xml.intermediate
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\layout.resfiles.intermediate
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\resources.resfiles.intermediate
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\pri.resfiles.intermediate
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\priconfig.xml
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\layout.resfiles
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\resources.resfiles
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\pri.resfiles
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\LanguageQualifiers.txt
+C:\Users\tej\Documents\Visual Studio 2012\Projects\ajayapp\Blocks\obj\Debug\ProjectArchitectures.txt

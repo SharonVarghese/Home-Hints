@@ -1,0 +1,153 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="Blocks.HubPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Blocks"
+    xmlns:common="using:Blocks.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='6' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" Margin="36,0,36,7" VerticalAlignment="Center"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Style="{StaticResource PageHeaderTextStyle}" Text="HOME HINTS" Margin="0,0,40,10" FontSize="60.667" VerticalAlignment="Center" Foreground="White"/>
+        </Grid>
+        
+        <ScrollViewer x:Name="MainScroll" HorizontalAlignment="Left" Margin="0" Grid.Row="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+            <Grid Background="Transparent" HorizontalAlignment="Left" Height="526" Margin="120,0,0,0" VerticalAlignment="Top" Width="2000">
+                <StackPanel HorizontalAlignment="Left" Height="500" Margin="0" VerticalAlignment="Center" Width="1125" Orientation="Horizontal">
+                    <GridViewItem x:ConnectionId='1' x:Name="FOOD" Margin="0,0,0,0" Width="207" Height="275" HorizontalAlignment="Left" VerticalAlignment="Top"                      >
+                        <Grid HorizontalAlignment="Left" Height="268" Width="207" VerticalAlignment="Top">
+                            <Image Source="Images/food.jpg" Stretch="Fill" Height="268"/>
+                            <Grid HorizontalAlignment="Left" Height="51" Margin="0" VerticalAlignment="Bottom" Width="207" Background="Black">
+                                <TextBlock HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="FOOD ITEMS" Foreground="White" VerticalAlignment="Center" FontSize="26.667"/>
+                            </Grid>
+                        </Grid>
+                    </GridViewItem>
+                    <GridViewItem x:ConnectionId='2' x:Name="KITCHEN" Margin="15,0,0,0" Width="207" Height="275" HorizontalAlignment="Left" VerticalAlignment="Top"                             >
+                        <Grid HorizontalAlignment="Left" Height="268" Width="207" VerticalAlignment="Top">
+                            <Image Margin="0" Source="Images/kitchen.jpg" Stretch="Fill" Height="268"/>
+                            <Grid HorizontalAlignment="Left" Height="51" Margin="0" VerticalAlignment="Bottom" Width="207" Background="Black">
+                                <TextBlock HorizontalAlignment="Center" Margin="0,10,10,0" TextWrapping="Wrap" Text="      KITCHEN" Foreground="White" VerticalAlignment="Center" FontSize="26.667" Height="41" Width="197"/>
+                            </Grid>
+                        </Grid>
+                    </GridViewItem>
+                    <GridViewItem x:ConnectionId='3' x:Name="BEAUTY" Margin="15,0,0,0" Width="207" Height="275" HorizontalAlignment="Left" VerticalAlignment="Top"                     >
+                        <Grid HorizontalAlignment="Left" Height="268" Width="207" VerticalAlignment="Top">
+                            <Image Margin="0" Source="Images/beauty.jpg" Stretch="Fill" Width="207" Height="268"/>
+                            <Grid HorizontalAlignment="Left" Height="51" Margin="0" VerticalAlignment="Bottom" Width="207" Background="Black">
+                                <TextBlock HorizontalAlignment="Center" Margin="0,8,2,8" TextWrapping="Wrap" Text="    BEAUTY TIPS" Foreground="White" VerticalAlignment="Center" FontSize="26.667" Width="205"/>
+                            </Grid>
+                        </Grid>
+                    </GridViewItem>
+                    <GridViewItem x:ConnectionId='4' x:Name="Jewellery" Margin="15,0,0,0" Width="207" Height="275" HorizontalAlignment="Left" VerticalAlignment="Top"                         >
+                        <Grid HorizontalAlignment="Left" Height="268" Width="207" VerticalAlignment="Top">
+                            <Image Margin="0" Source="Images/jewellery.jpg" Stretch="Fill" Width="207" Height="268"/>
+                            <Grid HorizontalAlignment="Left" Height="51" Margin="0" VerticalAlignment="Bottom" Width="207" Background="Black">
+                                <TextBlock HorizontalAlignment="Center" Margin="0,8,2,8" TextWrapping="Wrap" Text="    JEWELLERY " Foreground="White" VerticalAlignment="Center" FontSize="26.667" Width="205"/>
+                            </Grid>
+                        </Grid>
+                    </GridViewItem>
+                    <GridViewItem x:ConnectionId='5' x:Name="CLOTHES" Margin="15,0,0,0" Width="207" Height="275" HorizontalAlignment="Left" VerticalAlignment="Top"                       >
+                        <Grid HorizontalAlignment="Left" Height="268" Width="207" VerticalAlignment="Top">
+                            <Image Margin="0" Source="Images/clothes.jpg" Stretch="Fill" Width="207" Height="268"/>
+                            <Grid HorizontalAlignment="Left" Height="51" Margin="0" VerticalAlignment="Bottom" Width="207" Background="Black">
+                                <TextBlock HorizontalAlignment="Center" Margin="0,8,2,8" TextWrapping="Wrap" Text="       CLOTHES" Foreground="White" VerticalAlignment="Center" FontSize="26.667" Width="205"/>
+                            </Grid>
+                        </Grid>
+                    </GridViewItem>
+                       
+
+
+
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+
+        <Grid x:Name="gridSnap" Visibility="Collapsed" Grid.Row="1">
+            <StackPanel Margin="15,0,20,20" Orientation="Vertical" d:LayoutOverrides="Height">
+
+                <TextBlock Foreground="White" TextWrapping="Wrap" FontSize="26.667" Margin="0,200,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Light" >
+                    <Run Text="Please switch to full screen to view the details."/>
+                    <LineBreak/>
+                    <Run/>
+                    <LineBreak/>
+                    <Run Text="" />
+                    <LineBreak/>
+                    <Run/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Run/>
+                    <LineBreak/>
+                </TextBlock>
+            </StackPanel>
+            <Image Margin="0,495,0,0" Source="Assets/Images/bg.jpg" Stretch="Fill"/>
+        </Grid>
+        
+        <VisualStateManager.VisualStateGroups>
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup>
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Margin">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="-40,0,0,0"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="gridSnap" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="MainScroll" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

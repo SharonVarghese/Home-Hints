@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VFYI-04</Machine>
+    <WindowsUser>vjacob</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Brainvita.exe">
+      <PackagePath>Brainvita.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Brainvita.pdb">
+      <PackagePath>Brainvita.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Dreams_310x150.jpg">
+      <PackagePath>Assets\Dreams_310x150.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\dream_30.jpg">
+      <PackagePath>Assets\dream_30.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO30.jpg">
+      <PackagePath>Assets\HHLOGO30.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO30.jpg">
+      <PackagePath>HHLOGO30.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Background.jpg">
+      <PackagePath>Images\Background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\backgroundimg.jpg">
+      <PackagePath>Images\backgroundimg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\beauty.jpg">
+      <PackagePath>Images\beauty.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\beautybg.jpg">
+      <PackagePath>Images\beautybg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\black-and-white.jpg">
+      <PackagePath>Images\black-and-white.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Clothes.jpg">
+      <PackagePath>Images\Clothes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\clothesbg.jpg">
+      <PackagePath>Images\clothesbg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\food.jpg">
+      <PackagePath>Images\food.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\fooditems.jpg">
+      <PackagePath>Images\fooditems.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\jewellery.jpg">
+      <PackagePath>Images\jewellery.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\jewellerybg.jpg">
+      <PackagePath>Images\jewellerybg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\kitchen.jpg">
+      <PackagePath>Images\kitchen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\kitchenbg.jpg">
+      <PackagePath>Images\kitchenbg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Splashscreen.jpg">
+      <PackagePath>Images\Splashscreen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO150.png">
+      <PackagePath>Assets\HHLOGO150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO310150.png">
+      <PackagePath>Assets\HHLOGO310150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\HHLOGO50.png">
+      <PackagePath>Assets\HHLOGO50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\Splashscreen.png">
+      <PackagePath>Assets\Splashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Assets\wideLogo.png">
+      <PackagePath>Assets\wideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO150.png">
+      <PackagePath>HHLOGO150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO310150.png">
+      <PackagePath>HHLOGO310150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\HHLOGO50.png">
+      <PackagePath>HHLOGO50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\About-01.png">
+      <PackagePath>Images\About-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\AboutHub-01.png">
+      <PackagePath>Images\AboutHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Background.png">
+      <PackagePath>Images\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Instruction-01.png">
+      <PackagePath>Images\Instruction-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\InstructionHub-01.png">
+      <PackagePath>Images\InstructionHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\MainLogo-01.png">
+      <PackagePath>Images\MainLogo-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Play-01.png">
+      <PackagePath>Images\Play-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\PlayHub-01.png">
+      <PackagePath>Images\PlayHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Score-01.png">
+      <PackagePath>Images\Score-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\ScoreHub-01.png">
+      <PackagePath>Images\ScoreHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\Setting-01.png">
+      <PackagePath>Images\Setting-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Images\SettingHub-01.png">
+      <PackagePath>Images\SettingHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Splashscreen.png">
+      <PackagePath>Splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\ContactUs.xaml">
+      <PackagePath>SettingsFlyouts\ContactUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\AboutPage.xaml">
+      <PackagePath>AboutPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\HubPage.xaml">
+      <PackagePath>HubPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\InstructionPage.xaml">
+      <PackagePath>InstructionPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\PlayPage.xaml">
+      <PackagePath>PlayPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\ScorePage.xaml">
+      <PackagePath>ScorePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingPage.xaml">
+      <PackagePath>SettingPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\AboutUs.xaml">
+      <PackagePath>SettingsFlyouts\AboutUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\PrivacyPolicy.xaml">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\SettingsFlyouts\TermsAndConditions.xaml">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vjacob\Documents\Visual Studio 2012\Projects\Sharonapp\Blocks\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
